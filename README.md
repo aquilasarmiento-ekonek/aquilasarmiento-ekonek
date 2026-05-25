@@ -1,7 +1,6 @@
-```md
 # Hi there 👋 I'm Aki
 
-💻 IT Developer creating scalable applications, backend APIs, mobile apps, and automation solutions for a living.
+💻 IT Developer passionate about building scalable applications, backend APIs, mobile apps, and automation solutions.
 
 ---
 
@@ -9,10 +8,15 @@
 
 ### ⚙️ Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![NodeJS]((https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white))
+
+![ExpresJS]((https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white))
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📱 Mobile Development
@@ -47,4 +51,3 @@
 ---
 
 > “Building practical and reliable software solutions through continuous learning and innovation.”
-```
