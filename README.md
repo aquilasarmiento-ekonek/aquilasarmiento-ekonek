@@ -1,34 +1,35 @@
 ```md
 # Hi there 👋 I'm Aki
 
-💻 IT Developer passionate about building scalable applications, backend APIs, mobile apps, and automation solutions. I enjoy creating practical systems that improve workflows and solve real-world business problems.
+💻 IT Developer creating scalable applications, backend APIs, mobile apps, and automation solutions for a living.
 
 ---
 
 ## 🚀 Technologies & Tools
 
 ### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,python" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🗄️ Database & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-- Oracle Database
-- MinIO Object Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🛠️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,vscode" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -40,16 +41,8 @@
 
 ---
 
-## 📌 Interests
-✨ System Integration  
-🔐 API Security  
-⚡ Process Automation  
-🏗️ Software Architecture  
-
----
-
 ## 🤝 Connect With Me
-🐙 GitHub: [@aquisarwork](https://github.com/aquisarwork)
+🐙 GitHub: [@aquidev](https://github.com/aquidev)
 
 ---
 
