@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋 I'm Aki
 
-<!--
-**aquilasarmiento-ekonek/aquilasarmiento-ekonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Developer passionate about building scalable applications, backend APIs, mobile apps, and automation solutions. I enjoy creating practical systems that improve workflows and solve real-world business problems.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Development
+
+* Java / Spring Boot
+* Node.js / Express.js
+* REST API Development
+* TypeScript
+* Python Scripting
+
+### Mobile Development
+
+* Flutter
+* Dart
+* BLoC State Management
+
+### Database & Storage
+
+* PostgreSQL
+* Oracle Database
+* MySQL
+* MinIO Object Storage
+* MongoDB
+
+### DevOps & Tools
+
+* Docker
+* Jenkins
+* Git & GitHub
+* Linux Server Management
+
+### Other Interests
+
+* System Integration
+* API Security
+* Cloud & Infrastructure
+* Process Automation
+* Software Architecture
+
+## 📌 Currently Exploring
+
+* Scalable backend architectures
+* CI/CD automation
+* Modern mobile experiences
+* AI-assisted workflows
+
+## 🤝 Connect With Me
+
+* GitHub: @aquisarwork
+
+> “Building practical and reliable software solutions through continuous learning and innovation.”
